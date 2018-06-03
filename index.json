@@ -1,1 +1,8 @@
-{}
+{
+  "Ale32bit": {
+    "hello": {
+      "entry":"hello.js",
+      "version":"1.0.0",
+    }
+  }
+}
