@@ -3,6 +3,7 @@
     "hello": {
       "entry":"hello.js",
       "version":"1.0.0",
+      "description":"Hello World!"
     }
   }
 }
